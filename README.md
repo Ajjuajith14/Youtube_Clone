@@ -1,5 +1,5 @@
 # Introduction:
-## YouTube clone built entirely with React.js, offering a seamless and responsive video streaming experience. With ReactTube, you can explore a vast array of videos organized into custom categories, discover new content creators through channel pages, and enjoy a user-friendly interface designed to enhance your browsing and viewing pleasure.
+## YouTube clone built with React.js and CSS, offering a seamless and responsive video streaming experience. With ReactTube, you can explore a vast array of videos organized into custom categories, discover new content creators through channel pages, and enjoy a user-friendly interface designed to enhance your browsing and viewing pleasure.
 
 ## Key Features:
 
